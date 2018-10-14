@@ -71,11 +71,11 @@ language = None
 exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store', '.build']
 
 # The name of the Pygments (syntax highlighting) style to use.
-#pygments_style = 'sphinx'
-pygments_style = 'sdd'
+pygments_style = 'sphinx'
+#pygments_style = 'sdd'
 
 # The default language used to highlight source code
-highlight_language = 'sdd'
+#highlight_language = 'sdd'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
