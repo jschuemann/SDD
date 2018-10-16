@@ -18,6 +18,7 @@ Getting Started
     docs/Creating
     docs/Parsing
     docs/Examples
+    docs/References
 
 The SDD Collaboration
 ^^^^^^^^^^^^^^^^^^^^^^^
