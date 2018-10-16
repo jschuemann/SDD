@@ -2,8 +2,8 @@ Citation and References
 ==================================
 :doc:`Main Page <../index>`
 
-For citations, please use the SDD main paper:
----------------------------------------------
+Please use the SDD main paper when referencing the SDD:
+-------------------------------------------------------
 J. Schuemann et al., "A New Standard DNA Damage (SDD) Data Format", Radiation Research, (2018), (in print) 
 
 
