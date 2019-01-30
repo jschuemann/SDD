@@ -4,8 +4,7 @@ Citation and References
 
 Please use the SDD main paper when referencing the SDD:
 -------------------------------------------------------
-J. Schuemann et al., "A New Standard DNA Damage (SDD) Data Format", Radiation Research, (2018), (in print) 
-
+Schuemann, J., McNamara, A. L., Warmenhoven, J. W., Henthorn, N. T., Kirkby, K. J., Merchant, M. J., et al. (2019). A New Standard DNA Damage (SDD) Data Format. Radiation Research, 191(1), 76. http://doi.org/10.1667/rr15209.1
 
 The following papers used the SDD standard:
 --------------------------------------------
