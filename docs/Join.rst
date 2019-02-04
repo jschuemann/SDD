@@ -1,4 +1,4 @@
-Join the SDD collaboration
+Join the SDD User List
 ==================================
 :doc:`Main Page <../index>`
 
