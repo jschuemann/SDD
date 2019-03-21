@@ -12,10 +12,6 @@ Welcome to the documentation of the Standard for DNA Damage (SDD) data format!
     A New Standard DNA Damage (SDD) Data Format. Radiation Research, 191(1), 76. http://doi.org/10.1667/rr15209.1
 
 
-.. note::
-    This website will continue to be updated. We anticipate an option to actively contribute to the efforts to update the standard to include new features as necessary. If you are interested in contributing, please join the SDD user list (see link on the left).
-
-
 Getting Started
 ^^^^^^^^^^^^^^^^^^
 .. toctree::
@@ -43,3 +39,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+.. note::
+    This website will continue to be updated. We anticipate an option to actively contribute to the efforts to update the standard to include new features as necessary. If you are interested in contributing, please join the SDD user list (see link on the left).
