@@ -26,9 +26,9 @@ The tables and figures on this website are reproduced (with permission) from the
 .. figure:: ../_static/image/Figure1.png
    :scale: 60 %
 
+
 Motivation
 -----------
-
 
 
 :doc:`Main Page <../index>`
