@@ -6,8 +6,12 @@
 Welcome to the documentation of the Standard for DNA Damage (SDD) data format!
 =========================================================================================
 .. note::
-    This page will be fully avaialable as soon as the manuscript is published.
-    The SDD paper has been "Accepted for publication" by Radiation Research on 10/10.
+    The manuscrtipt detailing the SDD standard that should be cited when using or referring to the SDD can be found at:
+    Schuemann, J., McNamara, A. L., Warmenhoven, J. W., Henthorn, N. T., Kirkby, K. J., Merchant, M. J., et al. (2019). 
+    A New Standard DNA Damage (SDD) Data Format. Radiation Research, 191(1), 76. http://doi.org/10.1667/rr15209.1
+
+.. note::
+    This website will continue to be updated. We anticipate an option to actively contribute to the efforts to update the standard to include new features as necessary. If you are interested in contributing, please join the SDD user list (see link on the left).
 
 Getting Started
 ^^^^^^^^^^^^^^^^^^
