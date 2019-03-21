@@ -106,6 +106,9 @@ release = '1.0'
 
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+html_logo = '_static/images/Cover_1page2.pdf'
+
+
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
